@@ -1,4 +1,4 @@
-# Write_a_Data_Science_Blog_Post
+# Starbucks Capstone Project
 This project is a part of Capstone Project for Udacity Data Scientist Nanodegree program.
 
 ## **Table of Contents:**
@@ -64,7 +64,7 @@ The dataset is provided by Starbucks.
 ---
 
 ## **Results**<br/>
-The finding from the jupyter notebook can be found in [this medium post](https://veltenwinter.medium.com/8000-for-a-night-in-airbnb-munich-e511a8ab1c3c)
+The finding from the jupyter notebook can be found in [this medium post](https://veectro.medium.com/starbucks-capstone-project-f501456aeb7e)
 
 ---
 
